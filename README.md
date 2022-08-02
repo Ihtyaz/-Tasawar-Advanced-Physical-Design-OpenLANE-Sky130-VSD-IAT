@@ -12,6 +12,9 @@ The following sections would discuss and elaborate on the different topics that 
 
 *IC Package* - The term is associated to the enclosure that houses the semiconductor circuit design or device. This is generally practiced to protect the contents from corrosion or physical stress. In addition, it also facilitates electrical connection on a Printed Circuit Board (PCB). The type of IC packaging depends on the type of design the package will house and the associated requirments.
 
-![Example of a Package](https://i.imgur.com/ATUGv6k.png)
-                     IC Package - QFN48
+![A](https://i.imgur.com/ATUGv6k.png)
+                    
 
+*Wire Bonds* - A method to pursued to facilitate connection between the IC device (chip) and the packaging system.
+
+![B](https://i.imgur.com/VaODuEQ.png))
