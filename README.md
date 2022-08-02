@@ -8,7 +8,7 @@ The following sections would discuss and elaborate on the different topics that 
 
 ## 1. Inception of open-source EDA, OpenLANE and Sky130 PDK
 
-* **Fundamental Terminologies**
+* Fundamental Terminologies
 
 i. IC Package - The term is associated to the enclosure that houses the semiconductor circuit design or device. This is generally practiced to protect the contents from corrosion or physical stress. In addition, it also facilitates electrical connection on a Printed Circuit Board (PCB). The type of IC packaging depends on the type of design the package will house and the associated requirments.
 
