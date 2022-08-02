@@ -7,3 +7,7 @@ Any discrepancies or misrepresentations are to be formally reported to the autho
 The following sections would discuss and elaborate on the different topics that have been discussed within the workshop.
 
 ## 1. Inception of open-source EDA, OpenLANE and Sky130 PDK
+
+* QFN-48 Design & Associated Terminologies
+
+![Example of a Package](https://imgur.com/a/3tqfZut)
