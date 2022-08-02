@@ -13,5 +13,5 @@ The following sections would discuss and elaborate on the different topics that 
 IC Package - The term is associated to the enclosure that houses the semiconductor circuit design or device. This is generally practiced to protect the contents from corrosion or physical stress. In addition, it also facilitates electrical connection on a Printed Circuit Board (PCB). 
 
 ![Example of a Package](https://i.imgur.com/ATUGv6k.png)
-IC Package - QN48
+                     IC Package - QFN48
 
