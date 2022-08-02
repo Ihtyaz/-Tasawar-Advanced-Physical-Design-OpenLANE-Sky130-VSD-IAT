@@ -4,6 +4,6 @@ The repository is intended to house all proceedings, compilations and documents/
 
 Any discrepancies or misrepresentations are to be formally reported to the author.
 
-
+The following sections would discuss and elaborate on the different topics that have been discussed within the workshop.
 
 ## 1. Inception of open-source EDA, OpenLANE and Sky130 PDK
