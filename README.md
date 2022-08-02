@@ -10,4 +10,4 @@ The following sections would discuss and elaborate on the different topics that 
 
 * QFN-48 Design & Associated Terminologies
 
-![Example of a Package](https://imgur.com/a/3tqfZut)
+![Example of a Package](https://i.imgur.com/ATUGv6k.png)
