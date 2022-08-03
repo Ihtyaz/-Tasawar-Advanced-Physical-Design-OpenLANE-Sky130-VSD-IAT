@@ -31,4 +31,9 @@ The following sections would discuss and elaborate on the different topics that 
 
 *Die* - Die refers to the entirety of a chip that gets manufactured on a silicon wafer.
 
-![C](https://gcdnb.pbrd.co/images/G4MYFstpfPcY.png?o=1)
+
+<p align="center">
+  <img src="(https://gcdnb.pbrd.co/images/G4MYFstpfPcY.png?o=1)">
+</p>
+
+
