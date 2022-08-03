@@ -22,4 +22,8 @@ The following sections would discuss and elaborate on the different topics that 
 
 *Pads* - Pads serve as pathway for the transmission of signals to the chip or away from the chip, that is, for the transmission of input and output signals.
 
-![C](https://i.imgur.com/6UndyFP.png)
+*Core* - The core region within a design is where all the associated digital logic components are situated.
+
+*Die* - Die refers to the entirety of a chip that gets manufactured on a silicon wafer.
+
+![C](https://pasteboard.co/G4MYFstpfPcY.png)
