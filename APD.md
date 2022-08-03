@@ -20,6 +20,6 @@ The following sections would discuss and elaborate on the different topics that 
 ![B](https://i.imgur.com/VaODuEQ.png)
 
 
-*Pads* - Pads serve as pathway for the transmission of signals to the chip or away from the chip.
+*Pads* - Pads serve as pathway for the transmission of signals to the chip or away from the chip, that is, for the transmission of input and output signals.
 
 ![C](https://i.imgur.com/6UndyFP.png)
