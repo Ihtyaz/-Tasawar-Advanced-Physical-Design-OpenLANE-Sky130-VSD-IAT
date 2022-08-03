@@ -17,12 +17,12 @@ The following sections would discuss and elaborate on the different topics that 
 
 *Wire Bonds* - A method pursued in order to facilitate boundary pin connections between the IC device (chip) and the packaging system.
 
-![B](https://i.imgur.com/VaODuEQ.png)
+![B](https://gcdnb.pbrd.co/images/MXn667EtOMIV.png?o=1)
 
 
 *Pads* - Pads serve as pathway for the transmission of signals to the chip or away from the chip, that is, for the transmission of input and output signals.
 
-*Core* - The core region within a design is where all the associated digital logic components are situated.
+*Core* - The core region within a design is where all the associated digital logic components and foundry IPs are situated.
 
 *Die* - Die refers to the entirety of a chip that gets manufactured on a silicon wafer.
 
