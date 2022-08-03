@@ -16,15 +16,13 @@ The following sections would discuss and elaborate on the different topics that 
 <p align="center">
   <img src="https://i.imgur.com/ATUGv6k.png">
 </p>
-
-
-<p align="center">
-![A](https://i.imgur.com/ATUGv6k.png)
-</p>          
+ 
 
 *Wire Bonds* - A method pursued in order to facilitate boundary pin connections between the IC device (chip) and the packaging system.
 
-![B](https://gcdnb.pbrd.co/images/MXn667EtOMIV.png?o=1)
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/MXn667EtOMIV.png?o=1">
+</p>
 
 
 *Pads* - Pads serve as pathway for the transmission of signals to the chip or away from the chip, that is, for the transmission of input and output signals.
