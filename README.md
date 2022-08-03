@@ -39,9 +39,9 @@ The following sections would discuss and elaborate on the different topics that 
 
 *IP* - IP refers to intellectual property which serves as a large reusable unit of predefined functionality that can be integrated within a bigger ASIC design.
 
-*Macros* - Macros are digital units within a design that communicate with other macros or IPs.
+*Macros* - Macros are digital units or blocks within a design that communicate with other macros or IPs.
 
 <p align="center">
-  <img src="blob:https://imgur.com/57129d49-c5d7-4785-93ba-b812bae6a088">
+  <img src="https://i.imgur.com/H5eqJuh.png">
 </p>
 
