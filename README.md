@@ -33,7 +33,7 @@ The following sections would discuss and elaborate on the different topics that 
 
 
 <p align="center">
-  <img src="(https://gcdnb.pbrd.co/images/G4MYFstpfPcY.png?o=1)">
+  <img src="https://gcdnb.pbrd.co/images/G4MYFstpfPcY.png?o=1">
 </p>
 
 
