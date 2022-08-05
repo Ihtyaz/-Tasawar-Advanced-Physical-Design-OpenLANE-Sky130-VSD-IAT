@@ -53,5 +53,5 @@ The project will employ the RISC-V architecture with the aid of RTL specificatio
 
 
 <p align="center">
-  <img src="https://pasteboard.co/IntXxm4Nv5cW.png">
+  <img src="https://gcdnb.pbrd.co/images/IntXxm4Nv5cW.png?o=1">
 </p>
