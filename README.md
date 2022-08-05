@@ -62,13 +62,25 @@ The project will employ the RISC-V architecture with the aid of RTL specificatio
 </p>
 
 
+
 ### B. Designing an SoC
 
 
-To develop an SoC design, three important resources would be necessary - 
-a. Access to EDA tools
-b. Process Design Kit (PDK)
-c. RTL Design 
+* Resources
+
+To develop an ASIC/SoC design, three important resources would be essential - 
+a. Access to EDA tools - Tools that would help out with the proceedings of an ASIC/SoC design
+b. Process Design Kit (PDK) - A compilation of files provided by a foundry to designers for the pnr cycle. Usually contains Design Rule files, spice device models, standard cell libraries, technology libraries and layout data (standard cells GDSII).
+c. RTL Design - Digital Design specification in hardware description language that defines a system's digital segments; usually constitutes clocks, sequential and combinational elements.
+
+* ASIC flow
+
+For ASIC implementation, the design is taken through RTL to GDSII using Physical or PnR implementation. 
+a. The design RTL code which contains abstract register-level information is synthesized to a gate-level representation using standard cell components (logic gates). The generated gate-level netlist and the RTL specification are functionally equivalent.
+
+
+
+
 
 
 
