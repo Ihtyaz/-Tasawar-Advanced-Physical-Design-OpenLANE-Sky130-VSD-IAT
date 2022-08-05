@@ -95,9 +95,15 @@ vii. Once routing is complete, the final layout is ready which must be made to g
 
 
 
-* ASIC flow
+* Flow Associated Tools
 
-
+i. RTL Translation (Registers to Logic Gates) & Standard Cell Mapping -  Yosys & abc <br /> <br />
+ii. Synthesis Exploration (to determine best synthesis strategy with respect to power or timing) - OpenLane utility <br /> <br />
+iii. Design Exploration (to determine best design configuration) - OpenLane utility <br /> <br />
+iv. DFT (for post-fabrication fault testing; involves scan insertion, ATPG, Fault Coverage & Simulation) - Fault <br /> <br />
+v. Physical Implementation (Floor/Power Planning, Placement, CTS, Routing and Physical Cells insertion) - OpenROAD <br /> <br />
+vi. LEC (Functional Equivalence Check between synthesized gate-level netlist & physically implemented netlist) - Yosys
+vii. 
 
 
 
