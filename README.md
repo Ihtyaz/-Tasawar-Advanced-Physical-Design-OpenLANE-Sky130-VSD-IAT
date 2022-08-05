@@ -45,3 +45,13 @@ The following sections would discuss and elaborate on the different topics that 
   <img src="https://i.imgur.com/H5eqJuh.png">
 </p>
 
+
+
+* RISC-V
+
+The project will employ the RISC-V architecture with the aid of RTL specifications and it's corresponding layout to drive the pnr cycle.
+
+
+<p align="center">
+  <img src="https://pasteboard.co/IntXxm4Nv5cW.png">
+</p>
