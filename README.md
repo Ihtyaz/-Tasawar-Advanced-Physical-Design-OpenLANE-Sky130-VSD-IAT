@@ -8,7 +8,7 @@ The following sections would discuss and elaborate on the different topics that 
 
 ## 1. Inception of open-source EDA, OpenLANE and Sky130 PDK
 
-A. Computer Communication
+### A. Computer Communication
 
 * Fundamental Terminologies
 
@@ -59,5 +59,5 @@ The project will employ the RISC-V architecture with the aid of RTL specificatio
 </p>
 
 
-B. Designing an SoC
+### B. Designing an SoC
 
