@@ -89,6 +89,15 @@ vi. Once the clock tree is routed, the signal routing takes placement using the 
 vii. Once routing is complete, the final layout is ready which must be made to go through Physical Verification (DRC & LVS) to ensure manufacturability and Timing Verification (STA) to ensure synchronization of data. <br /> <br />
 
 
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/k98T8MPSmA0r.png?o=1">
+</p>
+
+
+
+* ASIC flow
+
+
 
 
 
