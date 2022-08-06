@@ -95,15 +95,22 @@ vii. Once routing is complete, the final layout is ready which must be made to g
 
 
 
-* Flow Associated Tools
+* OpenLane Associated Tools
 
 i. RTL Translation (Registers to Logic Gates) & Standard Cell Mapping -  Yosys & abc <br /> <br />
-ii. Synthesis Exploration (to determine best synthesis strategy with respect to power or timing) - OpenLane utility <br /> <br />
-iii. Design Exploration (to determine best design configuration) - OpenLane utility <br /> <br />
+ii. Synthesis Exploration (to determine best synthesis strategy with respect to power or timing) - OpenLane Utility <br /> <br />
+iii. Design Exploration (to determine best design configuration) - OpenLane Utility <br /> <br />
 iv. DFT (for post-fabrication fault testing; involves scan insertion, ATPG, Fault Coverage & Simulation) - Fault <br /> <br />
 v. Physical Implementation (Floor/Power Planning, Placement, CTS, Routing and Physical Cells insertion) - OpenROAD <br /> <br />
-vi. LEC (Functional Equivalence Check between synthesized gate-level netlist & physically implemented netlist) - Yosys <br /> <br />
-vii. 
+vi. LEC (Functional Equivalence Check between synthesized gate-level netlist & physically implemented or modified netlist) - Yosys <br /> <br />
+vii. RC Extraction (RC parasitics information extraction from routed layout) - DEF2SPEF
+viii. Static Timing Analysis (analysis of timing paths for timing violations) - OpenSTA
+ix. Design Rules Check (to ensure manufacturability) - Magic
+x. Layout vs Schematic Check (to ensure consistency in netlist and layout) - Magic and Netgen
+
+
+
+### B. Open-source EDA Tools
 
 
 
