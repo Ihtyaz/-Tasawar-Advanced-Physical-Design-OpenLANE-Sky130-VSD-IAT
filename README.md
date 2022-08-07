@@ -129,7 +129,7 @@ Post Synthesis Cell Count - 18036 <br /> <br />
 Flop Ratio - 1613/18036 = 8.94% <br /> <br />
 
 <p align="center">
-  <img src="https://i.imgur.com/DKtaDIG.png">
+  <img src="https://imgur.com/a/wVNIjjd">
 </p>
 
 
@@ -139,7 +139,7 @@ Flop Ratio - 1613/18036 = 8.94% <br /> <br />
 ## 2. Floorplan and Library Cells
 
 
-### A. Florrplannign Aspects
+### A. Floorplanning Aspects
 
 *Utlization Factor* - Defined as the core area occupied by a netlist. Utlization factor is given by the ration of area occupied by netlist and total area of core. A utlization factor of 1 would indicate that the entire core area of a chip is completely occupied.
 
@@ -171,3 +171,7 @@ DIE AREA - (0 0) (706 543) (in microns)
   <img src="https://i.imgur.com/fEQ00b7.png">
 </p>
 
+
+### B. Placement 
+
+Placement is done based on the connectivity defined in the netlist. The tool attempts to 
