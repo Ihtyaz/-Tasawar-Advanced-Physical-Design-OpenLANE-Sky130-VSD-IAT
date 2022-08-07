@@ -139,4 +139,18 @@ Flop Ration - 1613/14876 = 10.84% <br /> <br />
 ## 2. Floorplan and Library Cells
 
 
+### A. Florrplannign Aspects
+
+*Utlization Factor* - Defined as the core area occupied by a netlist. Utlization factor is given by the ration of area occupied by netlist and total area of core. A utlization factor of 1 would indicate that the entire core area of a chip is completely occupied.
+
+*Aspect Ratio* - Defined as the ratio of height of the core to the width of the core. An aspect ration of 1 indicates a square shaped chip, while any significantly lesser value would indicate a rectangular shape.
+
+
+<p align="center">
+  <img src="https://i.imgur.com/ERY3dzf.png">
+</p>
+
+
+
+
 
