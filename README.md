@@ -112,7 +112,7 @@ x. Layout vs Schematic Check (to ensure consistency in netlist and layout) - Mag
 
 ### C. Synthesis
 
-Once the necessary files have been setup for the openLane flow, the command run_synthesis would perform synthesis based on the constraints provided on the given netlist.
+Once the necessary files have been setup for the openLane flow, the tcl command "run_synthesis" would perform synthesis based on the constraints provided on the given netlist.
 
 
 <p align="center">
@@ -121,6 +121,22 @@ Once the necessary files have been setup for the openLane flow, the command run_
 
 
 
+
+* Workshop Tasks
+
+Post Synthesis Flip Flop Count - 1613
+Post Synthesis Cell Count - 14876
+Flop Ration - 1613/14876 = 10.84%
+
+<p align="center">
+  <img src="https://i.imgur.com/DKtaDIG.png">
+</p>
+
+
+
+
+
+## 2. Floorplan and Library Cells
 
 
 
