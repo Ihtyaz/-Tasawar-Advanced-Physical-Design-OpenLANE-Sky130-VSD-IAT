@@ -151,5 +151,23 @@ Flop Ratio - 1613/18036 = 8.94% <br /> <br />
 </p>
 
 
+The tcl command "run_floorplan" would perform floorplanning based on the default and custom parameters that were set in the configuration file and floorplan.tcl file.
 
+* Workshop Tasks
+
+DIE AREA - (0 0) (706 543) (in microns)
+
+<p align="center">
+  <img src="https://i.imgur.com/NkFzZPd.png">
+</p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/TPGflSt.png">
+</p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/fEQ00b7.png">
+</p>
 
