@@ -110,7 +110,15 @@ x. Layout vs Schematic Check (to ensure consistency in netlist and layout) - Mag
 
 
 
-### B. Open-source EDA Tools
+### C. Synthesis
+
+Once the necessary files have been setup for the openLane flow, the command run_synthesis would perform synthesis based on the constraints provided on the given netlist.
+
+
+<p align="center">
+  <img src="https://i.imgur.com/y15Gmhz.png">
+</p>
+
 
 
 
