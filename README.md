@@ -124,16 +124,16 @@ Once the necessary files have been setup for the openLane flow, the tcl command 
 
 * Workshop Tasks
 
-Post Synthesis Flip Flop Count - 1613
-Post Synthesis Cell Count - 14876
-Flop Ration - 1613/14876 = 10.84%
+Post Synthesis Flip Flop Count - 1613 <br /> <br />
+Post Synthesis Cell Count - 14876 <br /> <br />
+Flop Ration - 1613/14876 = 10.84% <br /> <br />
 
 <p align="center">
   <img src="https://i.imgur.com/DKtaDIG.png">
 </p>
 
 
-
+<br /> <br />
 
 
 ## 2. Floorplan and Library Cells
