@@ -174,4 +174,16 @@ DIE AREA - (0 0) (706 543) (in microns)
 
 ### B. Placement 
 
-Placement is done based on the connectivity defined in the netlist. The tool attempts to 
+Placement is done based on the connectivity defined in the netlist. The tool attempts to keep the standrard cells close to their associated IO pins and also attempts to minimize area and congestion through global routing. In addition, it also involves addition of repeaters to overcome signal integrity issues.
+
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/QFQTSY1Yv8dE.png?o=1">
+</p>
+
+
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/7kAB81PkME1B.png?o=1">
+</p>
+
+
+
