@@ -129,7 +129,7 @@ Post Synthesis Cell Count - 18036 <br /> <br />
 Flop Ratio - 1613/18036 = 8.94% <br /> <br />
 
 <p align="center">
-  <img src="https://imgur.com/a/wVNIjjd">
+  <img src="https://imgur.com/a/wVNIjjd.png">
 </p>
 
 
